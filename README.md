@@ -6,9 +6,12 @@ These projects cover a wide range of blockchain applications, from simple smart 
 
 Key Projects:
 Voting dApp - A decentralized application where users can create polls and cast votes, ensuring transparency and immutability on the Solana blockchain.
+
 Token Swap - A DeFi protocol that allows users to swap tokens seamlessly with low transaction fees, built with the Solana Program Library (SPL).
+
 NFT Marketplace - A platform for minting, buying, and selling NFTs, integrating Rust and the Metaplex Candy Machine for a smooth user experience.
 Token Vesting Platform - A smart contract that automates token distribution schedules, providing secure and time-bound releases.
+
 🌟 Highlights of My Journey
 Comprehensive Understanding of Blockchains: I mastered blockchain fundamentals, including cryptography, consensus mechanisms, and smart contract architecture.
 Solana Expertise: Developed scalable dApps leveraging Solana's speed and low fees, using Rust and Anchor for efficient smart contract development.
